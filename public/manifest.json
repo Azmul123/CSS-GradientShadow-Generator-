@@ -1,0 +1,8 @@
+{
+  "name": "CSS Visual Generator",
+  "short_name": "CSSGen",
+  "description": "Premium CSS visual design tool with 10 generators",
+  "theme_color": "#0a0a1a",
+  "background_color": "#0a0a1a",
+  "display": "standalone"
+}
