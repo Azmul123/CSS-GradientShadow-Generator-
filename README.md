@@ -50,7 +50,7 @@ Deploy the `dist/` folder to Vercel, Netlify, or any static host.
 
 ##  Live Demo
 
-[View Live Demo →](https://css-visual-generator.vercel.app)
+[View Live Demo →](https://css-gradient-shadow-generator.vercel.app/)
 
 ## 📁 Project Structure
 
